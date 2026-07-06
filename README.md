@@ -1,4 +1,4 @@
-# Project 4: The Serverless Logic
+#  The Serverless Logic
 
 ## Scenario
 Build a "Cost Calculator" API without running a server 24/7. 
